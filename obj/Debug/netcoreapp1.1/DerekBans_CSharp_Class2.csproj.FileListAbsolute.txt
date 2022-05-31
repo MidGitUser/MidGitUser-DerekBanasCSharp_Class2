@@ -1,0 +1,17 @@
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.deps.json
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.runtimeconfig.json
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.runtimeconfig.dev.json
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.dll
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.pdb
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.AssemblyInfo.cs
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.dll
+G:\Tutorials\C#\Exercises\DerekBanas\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.pdb
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.deps.json
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.runtimeconfig.json
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.runtimeconfig.dev.json
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.csprojResolveAssemblyReference.cache
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.AssemblyInfo.cs
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.dll
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\obj\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.pdb
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.dll
+H:\Tutorials\C#\DerekBanas\2\DerekBanas_Class2\bin\Debug\netcoreapp1.1\DerekBans_CSharp_Class2.pdb
